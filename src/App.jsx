@@ -10,7 +10,7 @@ function App() {
         <Routes>
           <Route index element={<Home></Home>}></Route>
           <Route path="/Home" element={<Home></Home>}></Route>
-          <Route path='https://platformatech.netlify.app/C1' element={<C1></C1>}></Route>
+          <Route path='https://platformatech.netlify.app/C999' element={<C1></C1>}></Route>
           <Route path='/C2' element={<C2></C2>}></Route>
           <Route path='/C3' element={<C3></C3>}></Route>
           <Route path='/C4' element={<C4></C4>}></Route>
