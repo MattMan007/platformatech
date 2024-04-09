@@ -11,7 +11,7 @@ function Home(){
                 </p>
             </header>
 
-            <a href="https://platformatech.netlify.app/C1"><ButtonBg text="Configurare"></ButtonBg></a>
+            <a href="https://platformatech.netlify.app/C999"><ButtonBg text="Configurare"></ButtonBg></a>
             <a href="/D1"><ButtonBg text="Diagnoza"></ButtonBg></a>
             <a href="/Info"><ButtonBg text="Informatii"></ButtonBg></a>
 
