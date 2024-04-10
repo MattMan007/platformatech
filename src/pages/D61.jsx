@@ -2,7 +2,7 @@ import React from 'react'
 import { Network1, Network3, lineLogo } from '../assets'
 import ButtonSm from '../components/ButtonSm'
 
-function D6() {
+function D61() {
   return (
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
@@ -22,4 +22,4 @@ function D6() {
   )
 }
 
-export default D6
+export default D61

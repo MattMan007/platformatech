@@ -25,6 +25,9 @@ import NetworkError1 from './Network_error1.jpg';
 import NetworkError2 from './Network_error2.jpg';
 import lineLogo from './line_logo.png';
 import Logo from './Logo.png';
+import OpenNetwork from './OpenNetwork.jpeg';
+import TPLink from './TP-Link_BDA4.jpeg';
+import Wireless from './Wireless.jpeg';
 
 export {
     Cp1,
@@ -54,6 +57,9 @@ export {
     SNS,
     lineLogo,
     Logo,
+    OpenNetwork,
+    TPLink,
+    Wireless,
 }
 
 

@@ -13,7 +13,7 @@ function D51() {
 
       <div className='flex flex-row'>
         <a href="/D4" className='flex justify-start mr-[40px]'><ButtonSm text="Inapoi"></ButtonSm></a>
-        <a href="/D6" className='flex justify-end'><ButtonSm text="Inainte"></ButtonSm></a>
+        <a href="/D61" className='flex justify-end'><ButtonSm text="Inainte"></ButtonSm></a>
       </div>
       
     </div>

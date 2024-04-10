@@ -21,7 +21,11 @@ import D4 from "./D4";
 import D51 from "./D51";
 import D52 from "./D52";
 import D53 from "./D53";
-import D6 from "./D6";
+import D61 from "./D61";
+import D63 from "./D63";
+import D73 from "./D73";
+import D83 from "./D83";
+import D93 from "./D93";
 import D7 from "./D7";
 import D8 from "./D8";
 import Home from "./Home";
@@ -51,7 +55,11 @@ export {
     D51,
     D52,
     D53,
-    D6,
+    D61,
+    D63,
+    D73,
+    D83,
+    D93,
     D7,
     D8,
     Home,

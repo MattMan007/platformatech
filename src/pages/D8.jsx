@@ -7,7 +7,7 @@ function D8() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Intra in meniul monitorului apasand butonul “MENU” de pe telecomanda.</p>
+        <p className="flex justify-center">Introduceti ca Server Adress: ds4.dsaas.ro, si selectati SAVE.</p>
         <img src={ConServ} alt="Remote" className='max-w-[320px] max-h-[500px]' />
       </header>
 
