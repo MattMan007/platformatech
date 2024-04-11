@@ -14,7 +14,7 @@ function Info(){
             <p className="my-[10px]">Denumire WI-FI: <br /> <span className="spectext">TP-Link_BDA4</span></p>
             <p className="my-[10px]">Parola WI-FI: <br /> <span className="spectext">Fantastic6</span></p>
             <p className="my-[10px]">Adresa Server: <br /> <span className="spectext">ds4.dsaas.ro</span></p>
-            <p className="my-[10px]">Telefon suport: <br /> <span className="spectext">+40215394507</span></p>
+            <p className="my-[10px]">Telefon suport: <br /> <a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
 
             <a href="./Home" className='flex justify-start'><ButtonSm text="Inapoi"></ButtonSm></a>
             <img src={lineLogo} alt="Line Logo" className="size-2em mt-[20px]" />

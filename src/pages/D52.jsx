@@ -10,7 +10,7 @@ function D52() {
         <p className="flex justify-center">Router-ul nu are semnal sau nu e functional, incearca sa restartezi tot raftul. <br /> <br />In caz ca problema persista contacteaza-ne!</p>
       </header>
 
-      <p className="my-[30px]">Telefon suport: <br /> <span className="spectext">+40215394507</span></p>
+      <p className="my-[30px]">Telefon suport: <br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
 
       <div className='flex flex-row mt-[50px]'>
         <a href="/D4" className='flex justify-start mr-[40px]'><ButtonSm text="Inapoi"></ButtonSm></a>
