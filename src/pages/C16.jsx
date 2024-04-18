@@ -7,7 +7,7 @@ function C16() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Odata ce apare acest ecran, configurarea  este completa si ecranul v-a primi  continut.</p>
+        <p className="flex justify-center">Odata ce apare acest ecran, configurarea este completa si ecranul v-a primi continut.</p>
         <img src={Cp16} alt="Cp16" className='max-w-[360px] max-h-[500px]' />
       </header>
 

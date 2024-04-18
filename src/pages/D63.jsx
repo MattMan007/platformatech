@@ -7,7 +7,7 @@ function D63() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Intra iar in meniul monitorului apasand butonul “MENU” de pe telecomanda.</p>
+        <p className="flex justify-center">Intra iar in meniul ecranului apasand butonul “MENU” de pe telecomanda.</p>
         <img src={Remote} alt="Remote" className='max-w-[360px] max-h-[500px]' />
       </header>
 

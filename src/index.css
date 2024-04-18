@@ -35,11 +35,6 @@ body {
   transition: ease-in-ou 0.3s;
 }
 
-.buttonS:disabled{
-  background-color: #EBEBE4;
-  color: #263752;
-}
-
 .spectext {
   color: #D3AC2B;
 }

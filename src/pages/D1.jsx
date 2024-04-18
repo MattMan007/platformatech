@@ -7,7 +7,7 @@ function D1() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Echipamentul este format din 2 componente: router si ecran.Asigura-te ca ambele dispozitive sunt conectate la priza.</p>
+        <p className="flex justify-center">Echipamentul este format din 2 componente: router si ecran. Asigura-te ca ambele dispozitive sunt conectate la priza.</p>
       </header>
 
       <p className='warn my-[70px]'>ATENTIE! Aveti nevoie de o telecomanda.</p>
