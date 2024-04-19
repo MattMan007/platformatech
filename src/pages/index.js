@@ -1,3 +1,4 @@
+import C0 from "./C0";
 import C1 from "./C1";
 import C2 from "./C2";
 import C3 from "./C3";
@@ -16,6 +17,7 @@ import C15 from "./C15";
 import C16 from "./C16";
 import D1 from "./D1";
 import D2 from "./D2";
+import D22 from "./D22";
 import D3 from "./D3";
 import D4 from "./D4";
 import D51 from "./D51";
@@ -32,6 +34,7 @@ import Home from "./Home";
 import Info from "./Info"
 
 export {
+    C0,
     C1,
     C2,
     C3,
@@ -50,6 +53,7 @@ export {
     C16,
     D1,
     D2,
+    D22,
     D3,
     D4,
     D51,

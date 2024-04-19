@@ -28,6 +28,7 @@ import Logo from './Logo.png';
 import OpenNetwork from './OpenNetwork.jpeg';
 import TPLink from './TP-Link_BDA4.jpeg';
 import Wireless from './Wireless.jpeg';
+import Remote2 from './Remote2.jpg'
 
 export {
     Cp1,
@@ -60,6 +61,7 @@ export {
     OpenNetwork,
     TPLink,
     Wireless,
+    Remote2,
 }
 
 

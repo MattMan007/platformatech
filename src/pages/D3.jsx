@@ -14,7 +14,7 @@ function D2() {
       </header>
 
       <div className='flex flex-row'>
-        <a href="/D2" className='flex justify-start mr-[40px]'><ButtonSm text="Inapoi"></ButtonSm></a>
+        <a href="/D22" className='flex justify-start mr-[40px]'><ButtonSm text="Inapoi"></ButtonSm></a>
         <a href="/D4" className='flex justify-end'><ButtonSm text="Inainte"></ButtonSm></a>
       </div>
       
