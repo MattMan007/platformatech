@@ -7,7 +7,7 @@ function C1() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center xs:max-w-[300px]">
+        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">
           Configurarea incepe cu aceasta fereastra. Selectati “Hi!”
         </p>
         <img src={Cp1} alt="Cp1" className='max-w-[360px] max-h-[600px]' />

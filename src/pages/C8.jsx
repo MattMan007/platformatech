@@ -7,7 +7,7 @@ function C8() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center xs:max-w-[300px]">Vom introduce adresa “ds4.dsaas.ro”</p>
+        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Vom introduce adresa “ds4.dsaas.ro”</p>
         <img src={Cp8} alt="Cp8" className='max-w-[360px] max-h-[500px]' />
       </header>
 

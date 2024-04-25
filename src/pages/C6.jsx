@@ -7,7 +7,7 @@ function C6() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="./Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center xs:max-w-[300px]">In meniul “Player Selection” alegem <br />optiunea “MagicINFO S Player”</p>
+        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">In meniul “Player Selection” alegem <br />optiunea “MagicINFO S Player”</p>
         <img src={Cp6} alt="Cp6" className='max-w-[360px] max-h-[500px]' />
       </header>
 

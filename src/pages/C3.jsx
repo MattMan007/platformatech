@@ -7,7 +7,8 @@ function C3() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-centerxs:max-w-[300px]">Ca parola pentru WI-FI vom introduce  parola: “Fantastic6”. Pentru a tasta litere cu majuscula selectati SHIFT.</p>
+        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Ca parola pentru WI-FI vom introduce  parola: “Fantastic6”. Pentru a tasta litere cu majuscula selectati</p>
+        <div className='text-red-600'>SHIFT</div>
         <img src={Cp3} alt="Cp3" className='max-w-[360px] max-h-[500px]' />
       </header>
 

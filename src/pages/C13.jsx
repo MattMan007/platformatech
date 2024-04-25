@@ -7,7 +7,7 @@ function C13() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center xs:max-w-[300px]">In urma terminarii configurarii <br /> vom  vedea acest ecran.</p>
+        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La finalizarea configurarii, urmatorul ecran va fii afisat.</p>
         <img src={Cp13} alt="Cp13" className='max-w-[360px] max-h-[500px]' />
       </header>
 

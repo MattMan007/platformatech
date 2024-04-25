@@ -7,7 +7,7 @@ function C12() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center xs:max-w-[300px]">Pentru setarea pinului vom trece peste FARA a seta un pin. Facem acest lucru prin a apasa sageata in dreapta pe telecomanda</p>
+        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Pentru setarea pinului vom trece peste FARA a seta un pin. Facem acest lucru prin a apasa sageata in dreapta pe telecomanda</p>
         <img src={Cp12} alt="Cp12" className='max-w-[360px] max-h-[500px]' />
       </header>
 

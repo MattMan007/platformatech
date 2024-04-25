@@ -6,7 +6,7 @@ function Home(){
         <div className="flex flex-col items-center">
             <header className="flex flex-col items-center">
                 <img src={Logo} alt="Logo" />
-                <p className="flex justify-center my-[10px] xs:max-w-[300px]">
+                <p className="flex justify-center my-[10px] xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">
                     Alegeti mai jos daca CONFIGURATI un ecran sau DIAGNOSTICATI un ecran nefunctional
                 </p>
             </header>

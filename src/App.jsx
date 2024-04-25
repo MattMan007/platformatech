@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import {C0,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,D1,D2,D22,D3,D4,D51,D52,D53,D61,D63,D73,D83,D93,D7,D8,Home,Info} from './pages'
+import {C0,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,D1,D2,D22,D3,D4,D51,D52,D53,D61,D63,D73,D83,D93,D7,D8,Home,Info} from './pages'
 
 
 function App() {
@@ -27,6 +27,7 @@ function App() {
           <Route path='/C14' element={<C14></C14>}></Route>
           <Route path='/C15' element={<C15></C15>}></Route>
           <Route path='/C16' element={<C16></C16>}></Route>
+          <Route path='/C17' element={<C17></C17>}></Route>
           <Route path='/D1' element={<D1></D1>}></Route>
           <Route path='/D2' element={<D2></D2>}></Route>
           <Route path='/D22' element={<D22></D22>}></Route>
