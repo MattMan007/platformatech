@@ -7,7 +7,7 @@ function C2() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Pentru conexiunea la retea vom alege  wifi-ul “TP-LINK_BDA4”</p>
+        <p className="flex justify-center xs:max-w-[300px]">Pentru conexiunea la retea vom alege  wifi-ul “TP-LINK_BDA4”</p>
         <img src={Cp2} alt="Cp2" className='max-w-[360px] max-h-[500px]' />
       </header>
 

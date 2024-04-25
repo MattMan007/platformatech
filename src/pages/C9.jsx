@@ -7,7 +7,7 @@ function C9() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Ecranul nostru ar trebui sa arate asa si sa  aibe datele de mai jos</p>
+        <p className="flex justify-center xs:max-w-[300px]">Ecranul nostru ar trebui sa arate asa si sa  aibe datele de mai jos</p>
         <img src={Cp9} alt="Cp9" className='max-w-[360px] max-h-[500px]' />
       </header>
 

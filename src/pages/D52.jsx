@@ -7,7 +7,7 @@ function D52() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Router-ul nu are semnal sau nu e functional, incearca sa restartezi tot raftul. <br /> <br />In caz ca problema persista contacteaza-ne!</p>
+        <p className="flex justify-center xs:max-w-[300px]">Router-ul nu are semnal sau nu e functional, incearca sa restartezi tot raftul. <br /> <br />In caz ca problema persista contacteaza-ne!</p>
       </header>
 
       <p className="my-[30px]">Telefon suport: <br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>

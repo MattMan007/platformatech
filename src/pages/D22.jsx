@@ -7,7 +7,7 @@ function D22() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Pentru Navigarea meniului vom folosi &nbsp;<span className='text-red-600'> SAGETILE</span>&nbsp; si pentru a selecta vom folosi tasta &nbsp;<span className='text-green-600'> ENTER</span>.</p>
+        <p className="flex justify-center xs:max-w-[300px]">Pentru Navigarea meniului vom folosi <span className='text-red-600'> SAGETILE</span> si pentru a selecta vom folosi tasta <span className='text-green-600'> ENTER</span>.</p>
         <img src={Remote2} alt="Remote" className='max-w-[360px] max-h-[500px]' />
       </header>
 

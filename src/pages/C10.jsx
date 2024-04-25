@@ -7,7 +7,7 @@ function C10() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Pe aceasta pagina selectam “Next”</p>
+        <p className="flex justify-center xs:max-w-[300px]">Pe aceasta pagina selectam “Next”</p>
         <img src={Cp10} alt="Cp10" className='max-w-[360px] max-h-[500px]' />
       </header>
 

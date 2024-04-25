@@ -41,7 +41,7 @@ function D4() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Alegeti una din variantele de mai jos prin a da click pe poza si dupa apasa pe INAINTE.</p>
+        <p className="flex justify-center xs:max-w-[300px]">Alegeti una din variantele de mai jos prin a da click pe poza si dupa apasa pe INAINTE.</p>
         <img src={NetworkStatus} alt="internet" onClick={handleClick1} ref={inputRef1} className='max-w-[340px] max-h-[500px] p-2' />
         <img src={NetworkError1} alt="No internet" onClick={handleClick2} ref={inputRef2} className='max-w-[340px] max-h-[500px] p-2' />
         <img src={NetworkError2} alt="No internet" onClick={handleClick3} ref={inputRef3} className='max-w-[340px] max-h-[500px] p-2' />

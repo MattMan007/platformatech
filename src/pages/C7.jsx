@@ -7,7 +7,7 @@ function C7() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Pentru conectarea la server vom  modifica doar “Server Adress”</p>
+        <p className="flex justify-center xs:max-w-[300px]">Pentru conectarea la server vom  modifica doar “Server Adress”</p>
         <img src={Cp7} alt="Cp7" className='max-w-[360px] max-h-[500px]' />
       </header>
 

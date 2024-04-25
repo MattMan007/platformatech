@@ -8,7 +8,7 @@ function D53() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Ecranul nu este conectat la reteaua WI-FI. Verifica daca reteaua este pornita. <br /><br /> Cauta pe telefon la Wi-Fi reteaua: TP-Link_BDA4.</p>
+        <p className="flex justify-center xs:max-w-[300px]">Ecranul nu este conectat la reteaua WI-FI. Verifica daca reteaua este pornita. <br /><br /> Cauta pe telefon la Wi-Fi reteaua: TP-Link_BDA4.</p>
       </header>
       <div>Exista reteaua TP-Link_BDA4?</div>
       <a href="/D63"><ButtonBg text="Da, exista"></ButtonBg></a>

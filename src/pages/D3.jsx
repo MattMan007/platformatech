@@ -2,12 +2,12 @@ import React from 'react'
 import { Network1, Network2, lineLogo } from '../assets'
 import ButtonSm from '../components/ButtonSm'
 
-function D2() {
+function D3() {
   return (
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">In meniu intrati in sub-meniul “Network” -- “Network Status”.</p>
+        <p className="flex justify-center xs:max-w-[300px]">In meniu intrati in sub-meniul “Network” -- “Network Status”.</p>
         <img src={Network1} alt="Remote" className='max-w-[320px] max-h-[500px] my-[10px]' />
         <img src={Network2} alt="Remote" className='max-w-[320px] max-h-[500px] my-[10px]' />
 
@@ -22,4 +22,4 @@ function D2() {
   )
 }
 
-export default D2
+export default D3

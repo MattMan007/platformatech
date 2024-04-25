@@ -7,7 +7,7 @@ function D83() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Pentru meniul network type selecteaza WIRELESS si dupa selecteaza reteaua TP-Link_BDA4.</p>
+        <p className="flex justify-center xs:max-w-[300px]">Pentru meniul network type selecteaza WIRELESS si dupa selecteaza reteaua TP-Link_BDA4.</p>
         <img src={Wireless} alt="Remote" className='max-w-[320px] max-h-[500px] my-[10px]' />
         <img src={TPLink} alt="Remote" className='max-w-[320px] max-h-[500px] my-[10px]' />
       </header>

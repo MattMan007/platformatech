@@ -7,7 +7,7 @@ function C14() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center">Pentru a ajunge in acest meniu vom  apasa pe telecomanda butonul de  “HOME” , vom selecta optiunea “Player”</p>
+        <p className="flex justify-center xs:max-w-[300px]">Pentru a ajunge in acest meniu vom  apasa pe telecomanda butonul de  “HOME” , vom selecta optiunea “Player”</p>
         <img src={Cp14} alt="Cp14" className='max-w-[360px] max-h-[500px]' />
       </header>
 
