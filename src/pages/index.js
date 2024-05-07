@@ -29,6 +29,7 @@ import D63 from "./D63";
 import D73 from "./D73";
 import D83 from "./D83";
 import D93 from "./D93";
+import D94 from "./D94";
 import D7 from "./D7";
 import D8 from "./D8";
 import Home from "./Home";
@@ -66,6 +67,7 @@ export {
     D73,
     D83,
     D93,
+    D94,
     D7,
     D8,
     Home,

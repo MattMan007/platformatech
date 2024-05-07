@@ -7,8 +7,8 @@ function D8() {
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
         <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
-        <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Introduceti ca Server Adress: ds4.dsaas.ro, si selectati SAVE.</p>
-        <img src={ConServ} alt="Remote" className='max-w-[320px] max-h-[500px]' />
+        <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px] my-[20px] ml-[20px]">Introduceti ca Server Adress: ds4.dsaas.ro, si selectati SAVE.</p>
+        <img src={ConServ} alt="Remote" className='xs:w-[320px] ss:w-[425px] max-h-[500px]' />
       </header>
 
       <p className="my-[30px]">Daca este deja introdusa contactati-ne!<br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>

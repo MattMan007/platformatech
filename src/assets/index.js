@@ -30,6 +30,7 @@ import TPLink from './TP-Link_BDA4.jpeg';
 import Wireless from './Wireless.jpeg';
 import Remote2 from './Remote2.jpg';
 import RemoteHome from './RemoteHome.jpg';
+import ArrowDown from './ArrowDown.svg';
 
 export {
     Cp1,
@@ -64,6 +65,7 @@ export {
     Wireless,
     Remote2,
     RemoteHome,
+    ArrowDown,
 }
 
 
