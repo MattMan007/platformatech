@@ -1,7 +1,16 @@
 import ButtonBg from "../components/ButtonBg";
 import { Logo, lineLogo } from "../assets";
+import axios from 'axios';
+
 
 function Home(){
+
+    const baseURL = "http://127.0.0.1:3000";
+
+    useEffect(() =>{
+      axios.get(`${baseURL}/count`);
+    });
+
     return(
         <div className="flex flex-col items-center">
             <header className="flex flex-col items-center">
