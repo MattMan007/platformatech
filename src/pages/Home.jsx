@@ -1,4 +1,5 @@
 import ButtonBg from "../components/ButtonBg";
+import React, {useEffect} from "react";
 import { Logo, lineLogo } from "../assets";
 import axios from 'axios';
 
