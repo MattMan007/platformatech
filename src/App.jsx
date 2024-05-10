@@ -1,8 +1,16 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import React, { useEffect } from 'react'
 import {C0,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,D1,D2,D22,D3,D4,D51,D52,D53,D61,D63,D73,D83,D93,D94,D7,D8,Home,Info} from './pages'
+import axios from 'axios';
 
 
 function App() {
+
+  const baseURL = "http://127.0.0.1:3000";
+
+  useEffect(() =>{
+    axios.get(`${baseURL}/count`);
+  });
 
   return (
     <div>

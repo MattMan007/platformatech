@@ -1,8 +1,16 @@
 import React from 'react'
 import { lineLogo } from '../assets'
 import ButtonSm from '../components/ButtonSm'
+import axios from 'axios';
 
 function D52() {
+
+  const baseURL = "http://127.0.0.1:3000";
+
+  function handleFinish(){
+    axios.get(`${baseURL}/finalizare`);
+  };
+
   return (
     <div className="flex flex-col items-center">
       <header className='flex flex-col items-center'>
@@ -14,7 +22,7 @@ function D52() {
 
       <div className='flex flex-row mt-[50px]'>
         <a href="/D4" className='flex justify-start mr-[40px]'><ButtonSm text="Inapoi"></ButtonSm></a>
-        <a href="/Home" className='flex justify-end'><ButtonSm text="Finalizare"></ButtonSm></a>
+        <a href="/Home" className='flex justify-end'onClick={handleFinish}><ButtonSm text="Finalizare"></ButtonSm></a>
       </div>
 
     
