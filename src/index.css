@@ -6,9 +6,9 @@
 
 :root {
   background-color: #011F4B;
-  color: aliceblue;
+  color: #f0f8ff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: bold;
+  font-weight: semibold;
   --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
 }
 
@@ -30,13 +30,17 @@ body {
 
 .buttonS:hover {
   background-color: #011F4B;
-  color: #D3AC2B;
-  border: #D3AC2B solid 2px;
+  color: #f7a601;
+  border: #f7a601 solid 2px;
   transition: ease-in-ou 0.3s;
 }
 
+.homeB:hover {
+  border-bottom:#f7a601 solid 2px;
+}
+
 .spectext {
-  color: #D3AC2B;
+  color: #f7a601;
 }
 
 .warn {
@@ -45,6 +49,13 @@ body {
   padding: 15px;
   border-radius: 10px;
   border: solid red 1px;
+}
+
+.border {
+  border: solid #f7a601 3px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #334b6e;
 }
 
 .box-shadow {

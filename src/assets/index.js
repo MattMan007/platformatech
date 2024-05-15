@@ -31,6 +31,7 @@ import Wireless from './Wireless.jpeg';
 import Remote2 from './Remote2.jpg';
 import RemoteHome from './RemoteHome.jpg';
 import ArrowDown from './ArrowDown.svg';
+import InstalType from './InstalType.jpg';
 
 export {
     Cp1,
@@ -66,6 +67,7 @@ export {
     Remote2,
     RemoteHome,
     ArrowDown,
+    InstalType,
 }
 
 
