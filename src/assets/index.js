@@ -24,6 +24,7 @@ import NetworkStatus from './Network_Status.jpg';
 import NetworkError1 from './Network_error1.jpg';
 import NetworkError2 from './Network_error2.jpg';
 import lineLogo from './line_logo.png';
+import lineLogo2 from './line_logo_2.png';
 import Logo from './Logo.png';
 import OpenNetwork from './OpenNetwork.jpeg';
 import TPLink from './TP-Link_BDA4.jpeg';
@@ -60,6 +61,7 @@ export {
     Remote,
     SNS,
     lineLogo,
+    lineLogo2,
     Logo,
     OpenNetwork,
     TPLink,

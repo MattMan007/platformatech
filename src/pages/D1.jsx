@@ -8,7 +8,6 @@ function D1() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <p className="flex justify-center xs:max-w-[310px] sm:max-w-[600px] lg:max-w-[1150px]">Echipamentul este format din 2 componente: router si ecran. Asigura-te ca ambele dispozitive sunt conectate la priza.</p>
         </header>
 

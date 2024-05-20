@@ -1,5 +1,5 @@
 import ButtonSm from "../components/ButtonBg";
-import { Logo, lineLogo } from "../assets";
+import { Logo, lineLogo, lineLogo2 } from "../assets";
 
 function Info(){
     return(
@@ -18,7 +18,7 @@ function Info(){
             <p className="my-[10px]">Telefon suport: <br /> <a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
 
             <a href="./Home" className='flex justify-start'><ButtonSm text="Inapoi"></ButtonSm></a>
-            <img src={lineLogo} alt="Line Logo" className="size-2em mt-[20px]" />
+            <img src={lineLogo2} alt="Line Logo" className="size-2em mt-[20px]" />
         </div>
       </div>
     );

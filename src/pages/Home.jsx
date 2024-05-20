@@ -1,6 +1,6 @@
 import ButtonBg from "../components/ButtonBg";
 import React, {useEffect} from "react";
-import { Logo, lineLogo } from "../assets";
+import { Logo, lineLogo2 } from "../assets";
 import axios from 'axios';
 
 
@@ -25,7 +25,7 @@ function Home(){
             <a href="/D1"><ButtonBg text="Diagnoza"></ButtonBg></a>
             <a href="/Info"><ButtonBg text="Informatii"></ButtonBg></a>
 
-            <img src={lineLogo} alt="Line Logo" className="size-2em" />
+            <img src={lineLogo2} alt="Line Logo" className="size-2em" />
         </div>
     );
 }

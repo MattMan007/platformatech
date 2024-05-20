@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect } from 'react'
 import { Cp16, lineLogo } from '../assets'
 import ButtonSm from '../components/ButtonSm'
 import axios from "axios"
@@ -16,7 +16,6 @@ function C17() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Odata ce apare acest ecran, configurarea este completa si ecranul v-a primi continut.</p>
           <img src={Cp16} alt="Cp16" className='max-w-[360px] max-h-[500px]' />
         </header>

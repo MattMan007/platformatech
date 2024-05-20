@@ -8,7 +8,6 @@ function D22() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <div className='flex justify-center xs:max-w-[320px] sm:max-w-[600px] lg:max-w-[1150px]'>Pentru Navigarea meniului vom folosi</div>
           <div className='text-red-600'>SAGETILE</div>
           <div className='xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]'>si pentru a selecta vom folosi tasta</div>

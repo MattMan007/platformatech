@@ -16,7 +16,6 @@ function D8() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px] my-[20px] ml-[20px]">Introduceti ca Server Adress: ds4.dsaas.ro, si selectati SAVE.</p>
           <img src={ConServ} alt="Remote" className='xs:w-[320px] ss:w-[425px] max-h-[500px]' />
         </header>

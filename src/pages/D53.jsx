@@ -9,7 +9,6 @@ function D53() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Ecranul nu este conectat la reteaua WI-FI. Verifica daca reteaua este pornita. <br /><br /> Cauta pe telefon la Wi-Fi reteaua: TP-Link_BDA4.</p>
         </header>
         <div>Exista reteaua TP-Link_BDA4?</div>
@@ -21,7 +20,7 @@ function D53() {
         </div>
 
       </div>
-      
+
     </div>
   )
 }

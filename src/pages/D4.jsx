@@ -42,7 +42,6 @@ function D4() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Verificati mesajul din chenarul de pe ecran si selectati de mai jos varianta care se potriveste. Dupa selectare, apasati butonul de INAINTE.</p>
           <img src={NetworkStatus} alt="internet" onClick={handleClick1} ref={inputRef1} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />
           <img src={NetworkError1} alt="No internet" onClick={handleClick2} ref={inputRef2} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />

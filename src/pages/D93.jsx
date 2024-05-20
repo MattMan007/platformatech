@@ -8,7 +8,6 @@ function C93() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <a href="/Home"><img src={lineLogo} alt="Line Logo" /></a>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Ca parola pentru WI-FI vom introduce  parola: “Fantastic6”</p>
           <img src={Cp3} alt="Cp3" className='xs:w-[320px] ss:w-[425px] max-h-[500px]' />
         </header>
