@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import { lineLogo } from '../assets'
 import ButtonSm from '../components/ButtonSm'
 import axios from 'axios';
